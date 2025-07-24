@@ -3,7 +3,7 @@
 - Estudante de Análise e Desenvolvimento de Sistemas
 - 21 anos
 - Desenvolvedor com interesse em programação e tecnologia
-- Usuário de Linux
+
 
 <br><br>
 ## 🛠 Tecnologias
@@ -13,12 +13,6 @@
   <img src="https://skillicons.dev/icons?i=cs,python,linux,vscode,git,github" />
 </a>
 </div>
-
-<br><br>
-## ⚙️ Análise do GitHub
-
-| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SEU_USUARIO_GITHUB&theme=tokyonight&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO_GITHUB&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| ----------- | ----------- |
 
 <br><br>
 ## :computer: Links Sociais
